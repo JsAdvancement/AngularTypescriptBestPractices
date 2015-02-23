@@ -1,10 +1,12 @@
 # AngularTypescriptBestPractices
 Fostering best practices in Angular projects using Typescript.
 
-# Why Typescript?
-Let's make ES6 our reality now. It's coming lets use it now.
+## Why Typescript?
+Let's make ES6 our reality now. It's coming, so lets use it now. A year from now, how many of us will be still writing JS ES5 code? Let's lead! Not Folow.
 
-### 10 Reasons to start using Typescript now
+_Frameworks come and go in Javascript land._ *The only thing that you can be sure about coming is Javscript ES6.*
+
+## 10 Reasons to start using Typescript now
 
 1) Typescript is opensource. Yes, Microsoft created it, but you can fork the source on [github](https://github.com/Microsoft/TypeScript)
 
