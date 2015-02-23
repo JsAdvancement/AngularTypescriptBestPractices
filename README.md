@@ -24,4 +24,4 @@ Let's make ES6 our reality now. It's coming lets use it now.
 
 9) Its framework agnostic use it with whatever framework you want â€” Typescript donâ€™t care its a Honey Badger
 
-10) Use whatever tooling you want. It is just a command-line compiler. Want full ide support use WebStorm or Visual Studio (they have intelligent support for Typescript). Want something lightweight use Sublime Text (there are Typescript plugins available as well).
+10) Use whatever tooling you want. It is just a command-line compiler. Grunt, Gulp whatever... Want full ide support use WebStorm or Visual Studio (they have intelligent support for Typescript). Want something lightweight use Sublime Text (there are Typescript plugins available as well).
