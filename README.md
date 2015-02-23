@@ -18,10 +18,10 @@ Let's make ES6 our reality now. It's coming lets use it now.
 
 6) Get the benefits of a nice syntax like Coffeescript, but with type checking and the emerging standard ES6 syntax as well
 
-7) Typescript works well with all of your existing javascript libraries. Want to do just a few modules in Typescript and have it integrate with your existing codebase â€” no problem. [This is more difficult to do with Dart]
+7) Typescript works well with all of your existing javascript libraries. Want to do just a few modules in Typescript and have it integrate with your existing codebase” no problem. [This is more difficult to do with Dart]. Actually, because Typescript is a superset of javascript, it makes it possible to cut-n-paste existig javascript solutions.
 
 8) If you are coming from languages like java or C#, then familiar design patterns (like GoF) fit right in instead of having to learn the all the javascript design patterns (many of which rely upon closures for modularity).
 
-9) Its framework agnostic use it with whatever framework you want â€” Typescript donâ€™t care its a Honey Badger
+9) Its framework agnostic use it with whatever framework you want *Typescript don't care its a Honey Badger*. And the code it produces is idiomatic javascript.
 
 10) Use whatever tooling you want. It is just a command-line compiler. Grunt, Gulp whatever... Want full ide support use WebStorm or Visual Studio (they have intelligent support for Typescript). Want something lightweight use Sublime Text (there are Typescript plugins available as well).
